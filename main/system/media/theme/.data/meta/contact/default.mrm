@@ -11,9 +11,9 @@
   "hash": "0",
   "size": 0,
   "updatedTime": 0,
-  "platform": 2,
+  "platform": 3,
   "title": "Стандартная",
-  "description": "Переведено KDev Group",
+  "description": "Перевод KDev Group",
   "author": "MIUI",
   "designer": "MIUI",
   "version": "1.0",
@@ -22,7 +22,7 @@
     "/system/media/theme/.data/preview/default/preview_contact_0.jpg"
   ],
   "buildInPreviews": [
-    "/system/media/theme/.data/preview/default/preview_contact_0.jpg",
+    "/system/media/theme/.data/preview/default/preview_contact_0.jpg"
   ],
   "thumbnails": [],
   "previews": [],
