@@ -119,4 +119,10 @@
         </fileset>
     </family>
 
+    <family>
+       <fileset>
+          <file>AndroidEmoji.ttf</file>
+       </fileset>
+    </family>
+
 </familyset>
