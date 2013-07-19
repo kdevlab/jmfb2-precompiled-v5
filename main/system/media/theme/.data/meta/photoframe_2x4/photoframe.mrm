@@ -1,0 +1,29 @@
+{
+  "localId": "photoframe",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/photoframe/photoframe_2x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/photoframe_2x4/photoframe.mrm",
+  "contentPath": "/system/media/theme/.data/content/photoframe_2x4/photoframe.mrc",
+  "hash": "102F41D9402C9B9F1D5E29289D831E5D8E07C587",
+  "size": 55105,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "По умолчанию",
+  "description": null,
+  "author": null,
+  "designer": null,
+  "version": "1.2",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/photoframe_2x4/photoframe/preview_photoframe_0.png"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/photoframe_2x4/photoframe/preview_photoframe_0.png"
+  ],
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}

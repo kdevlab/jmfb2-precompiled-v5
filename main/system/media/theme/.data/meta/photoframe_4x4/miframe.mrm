@@ -1,0 +1,29 @@
+{
+  "localId": "photoframe",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/photoframe/miframe_4x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/photoframe_4x4/miframe.mrm",
+  "contentPath": "/system/media/theme/.data/content/photoframe_4x4/miframe.mrc",
+  "hash": "C5531B2580DB59DDFD8C6CD479A8CC47B084E861",
+  "size": 4533,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "MiFrame",
+  "description": null,
+  "author": null,
+  "designer": null,
+  "version": "1.2",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/photoframe_4x4/photoframe/preview_miframe_0.png"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/photoframe_4x4/photoframe/preview_miframe_0.png"
+  ],
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}
